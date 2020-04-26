@@ -11,3 +11,8 @@ def send_auth(message):
     pass 
 
 bot.polling()
+
+# import pandas as pd 
+# df = pd.DataFrame({'a' : [1,2], 'b': [2,3]})
+# df.to_csv('test_df.csv', index=False)
+# print('File saved')
